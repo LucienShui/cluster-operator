@@ -11,6 +11,10 @@ expect
 
 # Usage
 
+```bash
+ln -s $PWD/c* /usr/local/bin/
+```
+
 ## ccp
 
 拷贝本地文件至远端
