@@ -12,7 +12,6 @@ expect
 # Usage
 
 ```bash
-cd /usr/local
 git clone https://github.com/LucienShui/cluster-operator.git
 ln -s $PWD/cluster-operator/c* /usr/local/bin/
 ```
